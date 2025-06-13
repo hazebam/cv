@@ -45,11 +45,11 @@ __Sir Henry Floyd Grammar School__
 __Computing__
 
 - Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers:
-  -  I coupled two python models, COSIPY and OGGM in order to create detailed snowpack information and change the glacier shape and size using OGGM.
-  -  This allowed for higher resolution runoff data.
-- Python - Dask, Numpy, CuPy, Xarray etc...
-- R - Knitr, Tidyverse, ggplot
-- Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling, Conda
+    -  I coupled two python models, COSIPY and OGGM in order to create detailed snowpack information and change the glacier shape and size using OGGM.
+    -  This allowed for higher resolution runoff data.
+- __Python:__ Dask, Numpy, CuPy, Xarray etc...
+- __R__ - Knitr, Tidyverse, ggplot
+- __Linux__ - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling, Conda
 - Familiar with Javascript in the context of Sentinel Hub remote processing of Sentinel 2 sattelite data
 - Structure from Motion: Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames Stereo Pipeline as well as the python packages HIPP and HSFM which required significant alteration for my use case.
 
