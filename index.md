@@ -25,7 +25,7 @@ __The University Of Sheffield__
 __The University of York__
 
 - _Batchelor of science:_ Environmental Science, __2:1__
-- Dissertation: __Understanding the link between Andean high-altitude wetlands and glacial recession__
+- Dissertation: __Mapping the growth of algae on the Greenland ice sheet__
 
 `2020 - Jan 2022`
 __University of Warwick__
