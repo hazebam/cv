@@ -45,14 +45,14 @@ __Sir Henry Floyd Grammar School__
 __Computing__
 
 - Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers. I coupled two python models, COSIPY and OGGM in order to create detailed snowpack modelling alongside an updated glacier area from OGGM.
-- Conda
 - Python - Dask, Numpy, CuPy, Xarray etc...
 - R - Knitr, Tidyverse, ggplot
-- Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling
+- Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling, Conda
 - Familiar with Javascript in the context of Sentinel Hub remote processing of Sentinel 2 sattelite data
 - Structure from Motion: Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames stereo pipeline, alongside the python packages HIPP and HSFM which required significant alteration for my use case
 
 __Data Analysis__
+
 - Analysis of bias corrected WRF data and comparison with other local AWS data
 - Remote processing of large sattelite datasets - cleaning remote sensing data to extract time series analysis.
 - Management and processing of datasets in the range of 100GB 
