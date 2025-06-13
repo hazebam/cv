@@ -42,6 +42,7 @@ __Sir Henry Floyd Grammar School__
 
 ### Computing
 
+
 - Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers:
     -  I coupled two python models, COSIPY and OGGM in order to create detailed snowpack information and change the glacier shape and size using OGGM.
     -  This allowed for higher resolution runoff data.
@@ -53,6 +54,7 @@ __Sir Henry Floyd Grammar School__
 
 ### Data Analysis
 
+
 - Analysis of bias corrected WRF data and comparison with other local AWS data
 - Remote processing of large sattelite datasets - cleaning remote sensing data to extract time series analysis.
 - Management and processing of datasets in the range of 100GB 
@@ -61,6 +63,7 @@ __Sir Henry Floyd Grammar School__
 ### Project Management
 
 ### Cooperation and Teamwork
+
 
 - Adina, Owen, Cosipy/OGGM devs,
 - Sheffield environment
