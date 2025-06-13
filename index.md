@@ -44,7 +44,9 @@ __Sir Henry Floyd Grammar School__
 
 __Computing__
 
-- Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers. I coupled two python models, COSIPY and OGGM in order to create detailed snowpack modelling alongside an updated glacier area from OGGM.
+- Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers:
+  -  I coupled two python models, COSIPY and OGGM in order to create detailed snowpack information and change the glacier shape and size using OGGM.
+  -  This allowed for higher resolution runoff data.
 - Python - Dask, Numpy, CuPy, Xarray etc...
 - R - Knitr, Tidyverse, ggplot
 - Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling, Conda
