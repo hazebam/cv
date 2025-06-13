@@ -63,11 +63,12 @@ body {
 
 p {
 	position: relative;
-	left: 33%;
+	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 55%;
 }
+
 
 code {
 	font: normal normal;
@@ -85,10 +86,10 @@ p code {
 
 
 
-ul { 
+ul {
 	position: relative;
-	left: 33%;
-	width: 65%;
+	left: 25%;
+	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
