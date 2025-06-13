@@ -23,13 +23,13 @@ __The University Of Sheffield__
 - _Master of science by research:_ Polar and Alpine Change
 - Dissertation: __Understanding the link between Andean high-altitude wetlands and glacial recession__
 
-`September 2022-2024`
+`Sept 2022-2024`
 __The University of York__
 
 - _Batchelor of science:_ Environmental Science, __2:1__
 - Dissertation: __Understanding the link between Andean high-altitude wetlands and glacial recession__
 
-`2020 - January 2022`
+`2020 - Jan 2022`
 __University of Warwick__
 
 - _Certificate of Higher Education:_ Global Sustainable Development and Life Sciences
