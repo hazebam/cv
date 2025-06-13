@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hazel Bamford's CV
 ---
-# Isaac Newton
+# Hazel Bamford
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
