@@ -50,12 +50,12 @@ __Computing__
 - R - Knitr, Tidyverse, ggplot
 - Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling
 - Familiar with Javascript in the context of Sentinel Hub remote processing of Sentinel 2 sattelite data
-- Structure from Motion - Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames stereo pipeline, alongside the python packages HIPP and HSFM which required significant alteration for my use case
+- Structure from Motion: Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames stereo pipeline, alongside the python packages HIPP and HSFM which required significant alteration for my use case
 
-  __Data Analysis__
-  - Analysis of bias corrected WRF data and comparison with other local AWS data including temporary AWS
-  - Remote processing of large sattelite datasets - cleaning remote sensing data to extract time series analysis.
-  - Management and processing of datasets in the range of 100GB 
+__Data Analysis__
+- Analysis of bias corrected WRF data and comparison with other local AWS data
+- Remote processing of large sattelite datasets - cleaning remote sensing data to extract time series analysis.
+- Management and processing of datasets in the range of 100GB 
  
 
 __Project Management__
