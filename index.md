@@ -40,7 +40,7 @@ __Sir Henry Floyd Grammar School__
 - _A levels:_ Psychology,Chemistry,Biology - __ABB__
 
 
-## Skills
+### Skills
 
 __Computing__
 
