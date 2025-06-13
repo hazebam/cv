@@ -21,27 +21,36 @@ Climate and Glacier modelling, Changing mountain and polar environments
 __The University Of Sheffield__
 
 - _Master of science by research:_ Polar and Alpine Change
-- Dissertation Title: •Understanding the link between Andean high-altitude wetlands and glacial recession•
+- Dissertation Title: __Understanding the link between Andean high-altitude wetlands and glacial recession__
 
 `September 2022-2024`
 __The University of York__
 
-- •Batchelor of science:• Environmental Science, 2:1
+- _Batchelor of science:_ Environmental Science, 2:1
+- Dissertation Title: __Understanding the link between Andean high-altitude wetlands and glacial recession__
 
 `2020 - January 2022`
 __University of Warwick__
 
-- •Certificate of Higher Education:• Global Sustainable Development and Life Sciences
+- _Certificate of Higher Education:_ Global Sustainable Development and Life Sciences
   
 `2018 - 2020`
 __Sir Henry Floyd Grammar School__
 
-- •A levels:• Psychology,Chemistry,Biology - ABB
+- _A levels:_ Psychology,Chemistry,Biology - ABB
 
 
 ## Skills
 
-__Modelling__
+__Computing__
+
+- Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers. I coupled two python models, COSIPY and OGGM in order to get detailed snowpack modelling alongside an updated glacier area from OGGM.
+- Python - Dask, Numpy, CuPy, Xarray
+- R - Knitr,Tidyverse,ggplot
+- Linux - OpenMPI,Bash,Zsh,Slurm  
+ 
+
+__Numerical Modelling__
 
 
 Associate, *French Academy of Science*, Paris, France
