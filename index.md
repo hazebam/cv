@@ -21,6 +21,7 @@ Climate and Glacier modelling, Changing mountain and polar environments
 __The University Of Sheffield__
 
 - •Master of science by research:• Polar and Alpine Change
+- Dissertation Title: •Understanding the link between Andean high-altitude wetlands and glacial recession•
 
 `September 2022-2024`
 __The University of York__
@@ -30,13 +31,16 @@ __The University of York__
 `2020 - January 2022`
 __University of Warwick__
 
-- Fellow
+- •Certificate of Higher Education:• Global Sustainable Development and Life Sciences
+
+__Sir Henry Floyd Grammar School__
+
+- •A levels:• Psychology,Chemistry,Biology - ABB
 
 
+## Skills
 
-## Awards
-
-`2012`
+``
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
