@@ -12,30 +12,23 @@ Master's student of Polar and Alpine Change Msc(Res), University of sheffield
 
 ## Interests
 
-Climate and Glacier modelling, Changing 
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Climate and Glacier modelling, Changing mountain and polar environments
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2024-2025`
+__The University Of Sheffield__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- •Master of science by research:• Polar and Alpine Change
 
-- Sizar
+`September 2022-2024`
+__The University of York__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- •Batchelor of science:• Environmental Science, 2:1
+
+`2020 - January 2022`
+__University of Warwick__
 
 - Fellow
 
