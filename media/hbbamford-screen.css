@@ -140,7 +140,7 @@ h2 {
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
-
+	top: 1.0em;
 	text-align: right;
 	width: 20%;
 }
@@ -149,7 +149,7 @@ h3 {
 	font-size: 1em;
 	line-height: 2em; 
 	position: relative;
-
+	top: 1.0em;
 	text-align: right;
 	width: 20%;
 }
