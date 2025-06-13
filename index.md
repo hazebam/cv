@@ -49,7 +49,7 @@ __Computing__
 - R - Knitr, Tidyverse, ggplot
 - Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling, Conda
 - Familiar with Javascript in the context of Sentinel Hub remote processing of Sentinel 2 sattelite data
-- Structure from Motion: Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames stereo pipeline, alongside the python packages HIPP and HSFM which required significant alteration for my use case
+- Structure from Motion: Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames Stereo Pipeline as well as the python packages HIPP and HSFM which required significant alteration for my use case.
 
 __Data Analysis__
 
