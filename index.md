@@ -26,7 +26,7 @@ __The University Of Sheffield__
 `September 2022-2024`
 __The University of York__
 
- Batchelor of science: Environmental Science, 2:1
+- _Batchelor of science:_ Environmental Science, __2:1__
 - Dissertation: __Understanding the link between Andean high-altitude wetlands and glacial recession__
 
 `2020 - January 2022`
@@ -44,14 +44,27 @@ __Sir Henry Floyd Grammar School__
 
 __Computing__
 
-- Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers. I coupled two python models, COSIPY and OGGM in order to get detailed snowpack modelling alongside an updated glacier area from OGGM.
+- Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers. I coupled two python models, COSIPY and OGGM in order to create detailed snowpack modelling alongside an updated glacier area from OGGM.
+- Conda
 - Python - Dask, Numpy, CuPy, Xarray etc...
-- R - Knitr,Tidyverse,ggplot
-- Linux - OpenMPI,Bash,Zsh, Using Slurm scheduling
+- R - Knitr, Tidyverse, ggplot
+- Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling
 - Familiar with Javascript in the context of Sentinel Hub remote processing of Sentinel 2 sattelite data
+- Structure from Motion - Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames stereo pipeline, alongside the python packages HIPP and HSFM which required significant alteration for my use case
+
+  __Data Analysis__
+  - Analysis of bias corrected WRF data and comparison with other local AWS data including temporary AWS
+  - Remote processing of large sattelite datasets - cleaning remote sensing data to extract time series analysis.
+  - Management and processing of datasets in the range of 100GB 
  
 
-__Numerical Modelling__
+__Project Management__
+
+__Inter-interstutional Cooperation and Teamwork__
+
+- Adina, Owen, Cosipy/OGGM devs,
+- Sheffield environment
+- 
 
 
 Associate, *French Academy of Science*, Paris, France
