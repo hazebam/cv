@@ -3,17 +3,16 @@ layout: cv
 title: Hazel Bamford's CV
 ---
 # Hazel Bamford
-Physicist, Mathematician, Cambridge professor.
+Master's student of Polar and Alpine Change Msc(Res), University of sheffield
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
 </div>
 
 
-## Currently
+## Interests
 
-Standing on the shoulders of giants
+Climate and Glacier modelling, Changing 
 
 ### Specialized in
 
