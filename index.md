@@ -8,29 +8,29 @@ Master's student of Polar and Alpine Change Msc(Res), University of sheffield
 <div id="webaddress">
 <a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
 </div>
-## Interests
+## Summary
 
-Climate and Glacier modelling, Changing mountain and polar environments
+Msc(Res) candidate: Polar and Alpine Change. Recent Environmental science BSc graduate with a strong foundation in numerical modelling, programming using Python and R with high performance computers. Highly motivated to continue to learn and pursue a career in climate science. 
 
 
 ## Education
 
 `2024-2025`
-__The University Of Sheffield__
+__Master of science by research:_Polar and Alpine Change___
 
-- _Master of science by research:_ Polar and Alpine Change
-- Dissertation: __Understanding the link between Andean high-altitude wetlands and glacial recession__
+- _University of Sheffield_
+- __Dissertation:__ Glacial meltwater contribution to high Andean wetlands
 
 `Sept 2022-2024`
-__The University of York__
+__Bachelor of science: Environmental science__
 
-- _Batchelor of science:_ Environmental Science, __2:1__
-- Dissertation: __Mapping the growth of algae on the Greenland ice sheet__
+- _University of York:_ __2:1__
+- __Dissertation:__ The growth of algae on the Greenland ice sheet
 
 `2020 - Jan 2022`
-__University of Warwick__
-
-- _Certificate of Higher Education:_ Global Sustainable Development and Life Sciences
+__Certificate of Higher Education: Global Sustainable Development and Life Sciences__
+- _University of Warwick_
+- Due to health issues had to suspend studies. Teaching on physical laboratory skills and techniques used in climate data collection and the politics of climate change and international research.
   
 `2018 - 2020`
 __Sir Henry Floyd Grammar School__
@@ -41,6 +41,23 @@ __Sir Henry Floyd Grammar School__
 ## Skills
 
 ### Computing
+
+#### Experience with:
+ - Python: Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matlibplot,Seaborn
+ - Python Modelling: Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+ - R: Knittr, Tidyverse,GGplot
+ - Linux/HPC – OpenMPI,SLURM,Git,Bash,Zsh
+ - Cloud processing: EarthExplorer M2M, Sentinel Hub, Planet Labs
+ - Structure From Motion: Ames Stereo Pipeline, Agisoft Metashape, various python tools to generate digital elevation models from historical imagery
+   
+#### Word Processing:
+- Microsoft office suite
+- Google docs
+- Latex 
+
+
+
+
 
 
 - Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers:
