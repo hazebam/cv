@@ -41,32 +41,32 @@ __Sir Henry Floyd Grammar School__
 
 ## Skills
 
-### Computing
+### __Computing__
 
-#### Experience with:
- - Python: Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matlibplot,Seaborn
- - Python Modelling: Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
- - R: Knittr, Tidyverse,GGplot
- - Linux/HPC – OpenMPI,SLURM,Git,Bash,Zsh
- - Cloud processing: EarthExplorer M2M, Sentinel Hub, Planet Labs
- - Structure From Motion: Ames Stereo Pipeline, Agisoft Metashape, various python tools to generate digital elevation models from historical imagery
+ - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matlibplot,Seaborn
+ - __Python Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+ - __R:__ Knittr, Tidyverse,GGplot
+ - __Linux/HPC:__  OpenMPI,SLURM,Git,Bash,Zsh
+
+ - __Remote Sensing, GIS__
+ - Use of Sentinel 2 and sentinel 5 data
+ - Use of Planet Labs data
+ - Orthorectofication and georeferencing of historical aerial imagery
+ - ArcGIS, QGIS
+ - __Cloud processing/APIs:__ EarthExplorer M2M, Sentinel Hub, Planet Labs
+ - __Structure From Motion:__ Ames Stereo Pipeline, Agisoft Metashape, various python tools to generate digital elevation models from historical imagery
    
-#### Word Processing:
+-__Word Processing__
 - Microsoft office suite
 - Google docs
 - Latex 
 
 
+### __Data Analysis__
 
-
-
-
-
-### Data Analysis
-
-
-- Analysis of bias corrected WRF data and comparison with other local AWS data
-- Remote processing of large sattelite datasets - cleaning remote sensing data to extract time series analysis.
+- Analysis of bias corrected WRF data and comparison with other available datasets including partial AWS datasets
+- Cleaning streamflow data and relating this to waether data to ensure it appears feasable.
+- Processing of large sattelite imagery datasets - cleaning remote sensing data to perform time series analysis.
 - Management and processing of datasets in the range of 100GB 
  
 
