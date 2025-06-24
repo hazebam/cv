@@ -8,6 +8,7 @@ Master's student of Polar and Alpine Change Msc(Res), University of sheffield
 <div id="webaddress">
 <a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
 </div>
+
 ## Summary
 
 Msc(Res) candidate: Polar and Alpine Change. Recent Environmental science BSc graduate with a strong foundation in numerical modelling, programming using Python and R with high performance computers. Highly motivated to continue to learn and pursue a career in climate science. 
@@ -60,14 +61,6 @@ __Sir Henry Floyd Grammar School__
 
 
 
-- Using HPC resources to run glacial models reconstructing the recent history of some Peruvian glaciers:
-    -  I coupled two python models, COSIPY and OGGM in order to create detailed snowpack information and change the glacier shape and size using OGGM.
-    -  This allowed for higher resolution runoff data.
-- Python: Dask, Numpy, CuPy, Xarray etc...
-- R - Knitr, Tidyverse, ggplot
-- Linux - OpenMPI, Bash, Zsh, Git, Using Slurm scheduling, Conda
-- Familiar with Javascript in the context of Sentinel Hub remote processing of Sentinel 2 sattelite data
-- Structure from Motion: Using historical aerial imagery to develop a digital elevation model of a glaciated catchment using Agisoft Metashape and Ames Stereo Pipeline as well as the python packages HIPP and HSFM which required significant alteration for my use case.
 
 ### Data Analysis
 
