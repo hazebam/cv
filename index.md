@@ -35,38 +35,32 @@ __Sir Henry Floyd Grammar School__
 ## Skills
 
 ### __Computing__
- - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matlibplot,Seaborn
+ - __Programming:__ __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matplotlib,Seaborn __R:__ Knittr, Tidyverse,GGplot
  - __Python Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
- - __R:__ Knittr, Tidyverse,GGplot
- - __Linux/HPC:__ OpenMPI,SLURM,Git,Bash,Zsh
+ - 
+ - __HPC/Linux:__ OpenMPI,SLURM,Git,Bash,Zsh
  - Familiar with Zarr, Netcdf and Geotiff file formats
  -  
- - __Remote Sensing, GIS__
- - Use of Sentinel 2 and sentinel 5 data
- - Use of Planet Labs data
+ - __Remote Sensing, GIS:__ Sentinel 2/5, Planet Labs, ArcGIS,QGIS,EarthExplorer M2M, Sentinel Hub
  - Orthorectofication and georeferencing of historical aerial imagery
- -  ArcGIS, QGIS
- - __APIs:__ EarthExplorer M2M, Sentinel Hub, Planet Labs
- - __Word Processing:__
- - Microsoft office suite
- - Google docs
- - Latex 
+ - __Word Processing:__ Microsoft office,Google docs,LaTeX
 
-### __Data Analysis__
 
-- Analysis of bias corrected WRF data and comparison with other available datasets including partial AWS datasets and ERA5 reanalysis data.
+### __Research and Project Experience__
+
+- Analysis of bias-corrected WRF data and comparison with AWS and ERA5 reanalysis datasets.
 - 
-- Cleaning streamflow data and comparing this to associated AWS data to ensure it appears feasable.
+- Cleaning streamflow data and comparing this to associated AWS data to ensure it appears feasible.
 - 
-- Processing of large sattelite imagery datasets - cleaning remote sensing data to perform time series analysis.
+- Running glacial models and interpreting their output.
+- 
+- Processing of large satellite imagery datasets - cleaning remote sensing data to perform time series analysis.
 - 
 - Processing of datasets in excess of 100GB
 - 
-- Creation of Plots and animations of time-series data to display in an engaging and informative way 
- 
-### __Project Management__
-
-- I have held a part time job alongide my studies, showing my ability to manage my time effectively and prioritise tasks
+- Creation of Plots and animations of time-series data to display in an engaging and informative way
+- 
+- Held a part time job during studies, showing ability to prioritise and manage time effectively
 
 ### __Cooperation__
 
