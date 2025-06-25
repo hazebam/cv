@@ -35,14 +35,14 @@ __Sir Henry Floyd Grammar School__
 ## Skills
 
 ### __Computing__
- - __Programming:__
-     - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matplotlib,Seaborn
-     - __R:__ Knittr,Tidyverse,GGplot
- - __Python Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+ - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matplotlib,Seaborn
+ - __R:__ Knittr,Tidyverse,GGplot
+ - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
  - __HPC/Linux:__ OpenMPI,SLURM,Git,Bash,Zsh
- - Familiar with Zarr, Netcdf and Geotiff file formats
- - __Remote Sensing, GIS:__ Sentinel 2/5, Planet Labs, ArcGIS,QGIS,EarthExplorer M2M, Sentinel Hub
- - Orthorectofication and georeferencing of historical aerial imagery
+    - Familiar with Zarr, Netcdf and Geotiff file formats
+ - __Remote Sensing:__ Sentinel 2/5, Planet Labs, ArcGIS,QGIS,
+    - EarthExplorer M2M API, Sentinel Hub API
+    - Orthorectofication and georeferencing of historical aerial imagery
  - __Word Processing:__ Microsoft office,Google docs,LaTeX
 
 
@@ -76,7 +76,7 @@ __Sir Henry Floyd Grammar School__
   
 ## Funding
 - Sheffield Postgraduate Scholarship - £10,000
-- Fieldtrip Scholarship: £2000
+- Fieldtrip Scholarship - £2000
 - Planet Labs private sector sattelite imagery - ~3000 Km² per month for 36 months
 
 ## Referees
