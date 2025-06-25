@@ -11,7 +11,7 @@ Master's student of Polar and Alpine Change Msc(Res), University of sheffield
 
 ## Summary
 
-Msc(Res) candidate: Polar and Alpine Change. Recent Environmental science BSc graduate with a strong foundation in numerical modelling, programming using Python and R with high performance computers. Highly motivated to continue to learn and pursue a career in climate science. 
+Msc (Res) candidate: Polar and Alpine Change. Recent Environmental science BSc graduate with a strong foundation in numerical modelling, programming using Python and R with high performance computers. Highly motivated to continue to learn and pursue a career in climate science. 
 
 ## Education
 
