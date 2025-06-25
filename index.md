@@ -13,7 +13,6 @@ Master's student of Polar and Alpine Change Msc(Res), University of sheffield
 
 Msc(Res) candidate: Polar and Alpine Change. Recent Environmental science BSc graduate with a strong foundation in numerical modelling, programming using Python and R with high performance computers. Highly motivated to continue to learn and pursue a career in climate science. 
 
-
 ## Education
 
 `2024-2025`
@@ -32,7 +31,6 @@ __Bachelor of science: Environmental science__
 __Sir Henry Floyd Grammar School__
 
 - _A levels:_ Psychology,Chemistry,Biology - __ABB__
-
 
 ## Skills
 
@@ -55,7 +53,6 @@ __Sir Henry Floyd Grammar School__
  - Google docs
  - Latex 
 
-
 ### __Data Analysis__
 
 - Analysis of bias corrected WRF data and comparison with other available datasets including partial AWS datasets and ERA5 reanalysis data.
@@ -68,25 +65,22 @@ __Sir Henry Floyd Grammar School__
 - 
 - Creation of Plots and animations of time-series data to display in an engaging and informative way 
  
-
 ### __Project Management__
 
 - I have held a part time job alongide my studies, showing my ability to manage my time effectively and prioritise tasks,
-
 
 ### __Cooperation__
 
 - My MSc project is part of a wider research project, and discussing my findings and issues has been a key part of my learning
 - 
-- To discuss parts of my project, which was in a data poor area, I took the initiave to reach out to international researchers to find data discussed in their work, or discuss their findings.
+- Discussions with international researchers to access data used in their publications, or to discuss their findings.
 - 
-- Whilst coupling the two models, collaboration with the teams behind each model was incredibly useful to understand how they worked.
+- Collaboration with the developers of glacier models
 - 
 - Being part of departmental seminars has given key understanding of research as a career, and the importance of sharing ideas and working collaboratively
 - 
 - Departmental coffee meetings have allowed me to talk to a wide variety of people and opened opportunities that would not have been available otherwise
   
-
 ## Funding
 - Sheffield Postgraduate Scholarship - £10,000
 - Fieldtrip Scholarship: £2000
