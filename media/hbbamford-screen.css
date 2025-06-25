@@ -95,11 +95,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -112,7 +112,7 @@ li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
-	margin-top: 0.25em;
+	margin-top: 0.1em;
 }
 
 h1,h2,h3,h4 {
