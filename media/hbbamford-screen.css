@@ -109,9 +109,9 @@ li {
 	/*color: #777;*/
 }
 
-/*ul > li:has(ul) {
+ul > li:has(ul) {
   margin-bottom: -0.6em;
-}*/
+}
 
 li ul {
 	position: relative;
