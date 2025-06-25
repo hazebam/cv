@@ -46,7 +46,7 @@ __Sir Henry Floyd Grammar School__
  - __Word Processing:__ Microsoft office,Google docs,LaTeX
 
 
-### __Research and Project Experience__
+### __Experience__
 
 - Analysis of bias-corrected WRF data and comparison with AWS and ERA5 reanalysis datasets.
 - 
