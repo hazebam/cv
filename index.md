@@ -47,16 +47,17 @@ __Sir Henry Floyd Grammar School__
  - __Python Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
  - __R:__ Knittr, Tidyverse,GGplot
  - __Linux/HPC:__  OpenMPI,SLURM,Git,Bash,Zsh
-
+ - Familiar with Zarr, Netcdf, Geotiff file formats
+    
  - __Remote Sensing, GIS__
  - Use of Sentinel 2 and sentinel 5 data
  - Use of Planet Labs data
  - Orthorectofication and georeferencing of historical aerial imagery
  - ArcGIS, QGIS
- - __Cloud processing/APIs:__ EarthExplorer M2M, Sentinel Hub, Planet Labs
- - __Structure From Motion:__ Ames Stereo Pipeline, Agisoft Metashape, various python tools to generate digital elevation models from historical imagery
+ - __APIs:__ EarthExplorer M2M, Sentinel Hub, Planet Labs
+
    
--__Word Processing__
+- __Word Processing__
 - Microsoft office suite
 - Google docs
 - Latex 
@@ -64,27 +65,33 @@ __Sir Henry Floyd Grammar School__
 
 ### __Data Analysis__
 
-- Analysis of bias corrected WRF data and comparison with other available datasets including partial AWS datasets
-- Cleaning streamflow data and relating this to waether data to ensure it appears feasable.
+- Analysis of bias corrected WRF data and comparison with other available datasets including partial AWS datasets and ERA5 reanalysis data.
+- Cleaning streamflow data and comparing this to associated AWS data to ensure it appears feasable.
 - Processing of large sattelite imagery datasets - cleaning remote sensing data to perform time series analysis.
-- Management and processing of datasets in the range of 100GB 
+- Processing of datasets in excess of 100GB
+- Creation of Plots and animations of time-series data to display in an engaging and informative way 
  
 
 ### Project Management
 
+- I have held a part time job alongide my studies, showing my ability to manage my time effectively and prioritise tasks,
 
-- Part of research group
 
 ### Cooperation and Teamwork
 
-
-- Adina, Owen, Cosipy/OGGM devs,
-- Sheffield environment
-- 
+- My MSc project is part of a wider research project, and discussing my findings and issues has been a key part of my learning 
+- To discuss parts of my project, which was in a data poor area, I took the initiave to reach out to international researchers to find data discussed in their work, or discuss their findings. 
+- Whilst coupling the two models, collaboration with the teams behind each model was incredibly useful to understand how they worked.
+- Being part of departmental seminars has given key understanding of research as a career, and the importance of sharing ideas and working collaboratively
+- Departmental coffee meetings have allowed me to talk to a wide variety of people and opened opportunities that would not have been available otherwise
+  
 
 ## Funding
 
-## Occupation
+- Sheffield Postgraduate Scholarship - £10,000
+- Fieldtrip Scholarship: £2000
+- Planet Labs private sector sattelite imagery - £3000 Km^2 per month for 36 months
+
 
 <!-- ### Footer
 
