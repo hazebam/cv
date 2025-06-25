@@ -35,7 +35,9 @@ __Sir Henry Floyd Grammar School__
 ## Skills
 
 ### __Computing__
- - __Programming:__ __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matplotlib,Seaborn __R:__ Knittr, Tidyverse,GGplot
+ - __Programming:__
+     - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matplotlib,Seaborn
+     - __R:__ Knittr,Tidyverse,GGplot
  - __Python Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
  - 
  - __HPC/Linux:__ OpenMPI,SLURM,Git,Bash,Zsh
