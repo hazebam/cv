@@ -37,17 +37,16 @@ __Sir Henry Floyd Grammar School__
 ### __Computing__
  - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matplotlib,Seaborn
  - __R:__ Knittr,Tidyverse,GGplot
- - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+ - __Modelling:__ Open Global Glacier Model __(OGGM)__,Ice and Snowpack model __(COSIPY)__
  - __HPC/Linux:__ OpenMPI,SLURM,Git,Bash,Zsh
     - Familiar with Zarr, Netcdf and Geotiff file formats
- - __Remote Sensing:__ Sentinel 2/5, Planet Labs, ArcGIS,QGIS,
+ - __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
+    - ArcGIS,QGIS
     - EarthExplorer M2M API, Sentinel Hub API
-    - Orthorectofication and georeferencing of historical aerial imagery
+    - Orthorectofication and georeferencing of historical aerial film imagery
  - __Word Processing:__ Microsoft office,Google docs,LaTeX
 
-
 ### __Experience__
-
 - Analysis of bias-corrected WRF data and comparison with AWS and ERA5 reanalysis datasets.
 - 
 - Cleaning streamflow data and comparing this to associated AWS data to ensure it appears feasible.
@@ -63,7 +62,6 @@ __Sir Henry Floyd Grammar School__
 - Held a part time job during studies, showing ability to prioritise and manage time effectively
 
 ### __Cooperation__
-
 - My MSc project is part of a wider research project, and discussing my findings and issues has been a key part of my learning
 - 
 - Discussions with international researchers to access data used in their publications, or to discuss their findings.
