@@ -22,17 +22,12 @@ __Master of science by research:_Polar and Alpine Change___
 - _University of Sheffield_
 - __Dissertation:__ Glacial meltwater contribution to high Andean wetlands
 
-`Sept 2022-2024`
+`2022-2024`
 __Bachelor of science: Environmental science__
 
 - _University of York:_ __2:1__
 - __Dissertation:__ The growth of algae on the Greenland ice sheet
 
-`2020 - Jan 2022`
-__Certificate of Higher Education: Global Sustainable Development and Life Sciences__
-- _University of Warwick_
-- Due to health issues had to suspend studies. Teaching on physical laboratory skills and techniques used in climate data collection and the politics of climate change and international research.
-  
 `2018 - 2020`
 __Sir Henry Floyd Grammar School__
 
@@ -93,10 +88,15 @@ __Sir Henry Floyd Grammar School__
   
 
 ## Funding
-
 - Sheffield Postgraduate Scholarship - £10,000
 - Fieldtrip Scholarship: £2000
 - Planet Labs private sector sattelite imagery - £3000 Km^2 per month for 36 months
+
+## Referees
+- __Dr Jeremy Ely__, _Senior Lecturer in Physical Geography_
+- J.Ely@sheffield.ac.uk
+- __Dr Robert Bryant__ _Senior Lecturer and Reader in Earth Observation_
+- R.G.Bryant@sheffield.ac.uk
 
 
 <!-- ### Footer
