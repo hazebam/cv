@@ -110,7 +110,7 @@ li {
 }
 
 ul > li:has(ul) {
-  margin-bottom: 0.4em;
+  margin-bottom: -0.4em;
 }
 
 li ul {
@@ -118,6 +118,7 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	/*margin-bottom: -0.5em;*/
 }
 
 h1,h2,h3,h4 {
