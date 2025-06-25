@@ -84,7 +84,7 @@ __Sir Henry Floyd Grammar School__
 ## Funding
 - Sheffield Postgraduate Scholarship - £10,000
 - Fieldtrip Scholarship: £2000
-- Planet Labs private sector sattelite imagery - ~3000 Km^2 per month for 36 months
+- Planet Labs private sector sattelite imagery - ~3000 Km² per month for 36 months
 
 ## Referees
 - __Dr Jeremy Ely__, _Senior Lecturer in Physical Geography_
