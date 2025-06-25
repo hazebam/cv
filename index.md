@@ -35,28 +35,22 @@ __Sir Henry Floyd Grammar School__
 ## Skills
 
 ### __Computing__
-
- - __Python:__
-   - Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matlibplot,Seaborn
- - __Python Modelling:__
-   - Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
- - __R:__
-   - Knittr, Tidyverse,GGplot
- - __Linux/HPC:__
-   - OpenMPI,SLURM,Git,Bash,Zsh
- - Familiar with Zarr, Netcdf, Geotiff file formats
+ - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matlibplot,Seaborn
+ - __Python Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+ - __R:__ Knittr, Tidyverse,GGplot
+ - __Linux/HPC:__ OpenMPI,SLURM,Git,Bash,Zsh
+ - Familiar with Zarr, Netcdf and Geotiff file formats
  -  
  - __Remote Sensing, GIS__
-   - Use of Sentinel 2 and sentinel 5 data
-   - Use of Planet Labs data
-   - Orthorectofication and georeferencing of historical aerial imagery
-   - ArcGIS, QGIS
- - __APIs:__
-   - EarthExplorer M2M, Sentinel Hub, Planet Labs
+ - Use of Sentinel 2 and sentinel 5 data
+ - Use of Planet Labs data
+ - Orthorectofication and georeferencing of historical aerial imagery
+ -  ArcGIS, QGIS
+ - __APIs:__ EarthExplorer M2M, Sentinel Hub, Planet Labs
  - __Word Processing:__
-   - Microsoft office suite
-   - Google docs
-   - Latex 
+ - Microsoft office suite
+ - Google docs
+ - Latex 
 
 ### __Data Analysis__
 
