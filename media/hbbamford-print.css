@@ -80,7 +80,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: 60%;
+	right: 80%;
 }
 
 
@@ -126,7 +126,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 20%;
 }
 
 h1+p { 
