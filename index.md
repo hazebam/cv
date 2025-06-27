@@ -46,7 +46,7 @@ __A Levels:__
 
 ### __Experience__
 
-- Analysis of bias-corrected WRF data and comparison with AWS and ERA5 reanalysis datasets.
+- Analysis of bias-corrected WRF data and comparison with AWS data.
 - 
 - Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
 -  
