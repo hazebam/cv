@@ -80,7 +80,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: 80%;
+	right: 100%;
 }
 
 
@@ -118,7 +118,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 70%;
+	width: 65%;
 }
 
 h1 {
@@ -126,7 +126,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 20%;
+	left: 33%;
 }
 
 h1+p { 
@@ -142,7 +142,7 @@ h2 {
 	position: relative;
 	top: 1.0em;
 	text-align: right;
-	width: 16%;
+	width: 20%;
 }
 
 
@@ -152,7 +152,7 @@ h3 {
 	position: relative;
 	top: 1.0em;
 	text-align: right;
-	width: 16%;
+	width: 20%;
 }
 
 a {
@@ -167,7 +167,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 28%;
+	left: 33%;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
