@@ -26,9 +26,9 @@ __Bachelor of science: _Environmental science___ __2:1__
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
 
 `2018 - 2020`
-__A Levels__
-_Sir Henry Floyd Grammar School:_
-- __Psychology,Biology,Chemistry__  __ABB__
+__A Levels:__
+- _Sir Henry Floyd Grammar School:_
+- Psychology,Biology,Chemistry:  __ABB__
 
 ## Skills
 
