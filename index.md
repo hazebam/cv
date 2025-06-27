@@ -58,22 +58,19 @@ __Sir Henry Floyd Grammar School__
 - Creation of plots and animations of time-series data to display in an engaging and informative way.
 - 
 - Held a part time job during studies, exemplary ability to prioritise and manage time effectively.
+-
+- Strong ability to generate close working relationships with project supervisors to work collaboratively 
+-
+- Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas
+- 
+- Discussions with international researchers to access data used in their publications and to discuss their findings.
 
 ### __Cooperation__
-- Discussing my findings and issues has been a key part of my learning
+- Strong ability to generate close working relationships with project supervisors to work collaboratively 
+-
+- Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas
 - 
-- Discussions with international researchers to access data used in their publications, or to discuss their findings.
-- 
-- Collaboration with the developers of glacier models
-- 
-- Being part of departmental seminars has given key understanding of research as a career, and the importance of sharing ideas and working collaboratively
-- 
-- Departmental coffee meetings have allowed me to talk to a wide variety of people and opened opportunities that would not have been available otherwise
-  
-## Funding
-- Sheffield Postgraduate Scholarship - £10,000
-- Fieldtrip Scholarship - £2000
-- Planet Labs private sector sattelite imagery - ~3000 Km² per month for 36 months
+- Discussions with international researchers to access data used in their publications and to discuss their findings.
 
 ## Referees
 - __Dr Jeremy Ely__, _Senior Lecturer in Physical Geography_
