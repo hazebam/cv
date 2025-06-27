@@ -47,6 +47,7 @@ __Sir Henry Floyd Grammar School__
  - __Word Processing:__ Microsoft office, LaTeX
 
 ### __Experience__
+
 - Analysis of bias-corrected WRF data and comparison with AWS and ERA5 reanalysis datasets.
 - 
 - Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
@@ -54,15 +55,15 @@ __Sir Henry Floyd Grammar School__
 - Using and interpreting glacier model outputs.
 - 
 - Processing of large satellite imagery datasets to perform time series analysis.
-- 
+-
 - Creation of plots and animations of time-series data to display in an engaging and informative way.
-- 
+-
 - Held a part time job during studies, exemplary ability to prioritise and manage time effectively.
 -
-- Strong ability to generate close working relationships with project supervisors to work collaboratively 
+- Strong ability to generate close working relationships with project supervisors to work collaboratively
 -
 - Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas
-- 
+-
 - Discussions with international researchers to access data used in their publications and to discuss their findings.
 
 ### __Cooperation__
