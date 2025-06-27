@@ -17,13 +17,11 @@ Recent Environmental Science BSc graduate, currently studying an MSc(Res) due to
 
 `2024-2025`
 __Master of Science by research: _Polar and Alpine Change___
-
-- _University of Sheffield_
+- _University of Sheffield:_
 - __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health 
 
 `2022-2024`
 __Bachelor of science: _Environmental science___ __2:1__
-
 - _University of York:_ 
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
 
