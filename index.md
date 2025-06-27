@@ -3,7 +3,7 @@ layout: cv
 title: Hazel Bamford's CV
 ---
 # Hazel Bamford
-Master's student of Polar and Alpine Change Msc(Res), University of sheffield
+Master's student of Polar and Alpine Change, University of sheffield
 
 <div id="webaddress">
 <a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
@@ -11,58 +11,56 @@ Master's student of Polar and Alpine Change Msc(Res), University of sheffield
 
 ## Summary
 
-Msc (Res) candidate: Polar and Alpine Change. Recent Environmental science BSc graduate with a strong foundation in numerical modelling, programming using Python and R with high performance computers. Highly motivated to continue to learn and pursue a career in climate science. 
+Recent Environmental Science BSc graduate, currently studying an MSc(Res) due to end September 2025. A strong foundation in numerical modelling, programming using Python and R using high performance computing. Highly motivated to pursue a career in climate science. 
 
 ## Education
 
 `2024-2025`
-__Master of science by research:_Polar and Alpine Change___
+__Master of Science by research: _Polar and Alpine Change___
 
 - _University of Sheffield_
-- __Dissertation:__ Glacial meltwater contribution to high Andean wetlands
+- __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health 
 
 `2022-2024`
-__Bachelor of science: Environmental science__
+__Bachelor of science: _Environmental science___ __2:1__
 
-- _University of York:_ __2:1__
-- __Dissertation:__ The growth of algae on the Greenland ice sheet
+- _University of York:_ 
+- __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
 
 `2018 - 2020`
 __Sir Henry Floyd Grammar School__
 
-- _A levels:_ Psychology,Chemistry,Biology - __ABB__
+- _A levels:_ Psychology,Biology,Chemistry - __ABB__
 
 ## Skills
 
 ### __Computing__
- - __Python:__ Iris,Dask,Numpy,Xarray,Pandas,CuPy,Matplotlib,Seaborn
- - __R:__ Knittr,Tidyverse,GGplot
- - __Modelling:__ Open Global Glacier Model __(OGGM)__,Ice and Snowpack model __(COSIPY)__
- - __HPC/Linux:__ OpenMPI,SLURM,Git,Bash,Zsh
+ - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
+ - __R:__ Knittr, Tidyverse, GGplot
+ - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+ - __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
     - Familiar with Zarr, Netcdf and Geotiff file formats
  - __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
-    - ArcGIS,QGIS
+    - ArcGIS, QGIS
     - EarthExplorer M2M API, Sentinel Hub API
     - Orthorectofication and georeferencing of historical aerial film imagery
- - __Word Processing:__ Microsoft office,Google docs,LaTeX
+ - __Word Processing:__ Microsoft office, LaTeX
 
 ### __Experience__
 - Analysis of bias-corrected WRF data and comparison with AWS and ERA5 reanalysis datasets.
 - 
-- Cleaning streamflow data and comparing this to associated AWS data to ensure it appears feasible.
+- Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
 - 
-- Running glacial models and interpreting their output.
+- Using and interpreting glacier model outputs.
 - 
-- Processing of large satellite imagery datasets - cleaning remote sensing data to perform time series analysis.
+- Processing of large satellite imagery datasets to perform time series analysis.
 - 
-- Processing of datasets in excess of 100GB
+- Creation of plots and animations of time-series data to display in an engaging and informative way.
 - 
-- Creation of Plots and animations of time-series data to display in an engaging and informative way
-- 
-- Held a part time job during studies, showing ability to prioritise and manage time effectively
+- Held a part time job during studies, exemplary ability to prioritise and manage time effectively.
 
 ### __Cooperation__
-- My MSc project is part of a wider research project, and discussing my findings and issues has been a key part of my learning
+- Discussing my findings and issues has been a key part of my learning
 - 
 - Discussions with international researchers to access data used in their publications, or to discuss their findings.
 - 
@@ -82,8 +80,3 @@ __Sir Henry Floyd Grammar School__
 - J.Ely@sheffield.ac.uk
 - __Dr Robert Bryant__ _Senior Lecturer and Reader in Earth Observation_
 - R.G.Bryant@sheffield.ac.uk
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
