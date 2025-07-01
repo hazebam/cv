@@ -106,7 +106,7 @@ li {
 	/*color: #777;*/
 }
 
-ul > li:has(ul) {Add commentMore actions
+ul > li:has(ul) {
   margin-bottom: -1.2em;
 }
 Add comment
