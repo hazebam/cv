@@ -33,7 +33,8 @@ __A Levels:__
 
 ## Skills
 
-### __Computing__
+### __Computing__  
+
  -  __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  -  __R:__ Knittr, Tidyverse, GGplot
  -  __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
@@ -46,7 +47,7 @@ __A Levels:__
      - Orthorectofication and georeferencing of historical aerial film imagery
  -  __Word Processing:__ Microsoft office, LaTeX
 
-### __Technical Experience__    
+### __Technical Experience__      
 
 - -Analysis of bias-corrected WRF data and comparison with AWS data.
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
@@ -58,7 +59,8 @@ __A Levels:__
 - -Discussions with international researchers to access data used in their publications and to discuss their findings.  
 
   
-### __Work Experience__
+### __Work Experience__  
+
 `2020-2025`
 - __Lifeguard at Talbot Specialist School, Sheffield:__
 - _Responsibilities:_
