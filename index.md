@@ -34,6 +34,7 @@ __A Levels:__
 ## Skills
 
 ### __Computing__  
+-  
 
  -  __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  -  __R:__ Knittr, Tidyverse, GGplot
@@ -48,6 +49,7 @@ __A Levels:__
  -  __Word Processing:__ Microsoft office, LaTeX
 
 ### __Technical Experience__      
+-
 
 - -Analysis of bias-corrected WRF data and comparison with AWS data.
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
@@ -60,6 +62,7 @@ __A Levels:__
 
   
 ### __Work Experience__  
+-  
 
 `2020-2025`
 - __Lifeguard at Talbot Specialist School, Sheffield:__
