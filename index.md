@@ -66,14 +66,14 @@ __A Levels:__
 - -Discussions with international researchers to access data used in their publications and to discuss their findings.
   
 ### __Work Experience__
-
-- __Held a part time job as a lifeguard during studies:__
+`2020-2025`
+- __Lifeguard, Talbot Specialist School, Sheffield:__
 - _Responsibilities:_
    - Maintain qualification and keep up to date with updated guidance. 
    - Developed time management skills balancing work and studies.
    - Responsible for safety of special educational needs children within the pool.
    - facillitate teaching and physiotherapy.
-
+`July 2024`
 - __Placement with local buisiness as a sustainability consultant:__
 - _Responsibilities:_
    - Booking meetings with staff and management when I deem necessary.
