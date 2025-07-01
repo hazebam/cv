@@ -57,7 +57,7 @@ __A Levels:__
 - -Creation of plots and animations of time-series data to display in an engaging and informative way.
 - -Strong ability to generate close working relationships with project supervisors to work collaboratively.
 - -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
-- -Discussions with international researchers to access data used in their publications and to discuss their findings.  
+- -Collaboration with international researchers to access data used in their publications and to discuss their results.  
 
 <br>  
 
