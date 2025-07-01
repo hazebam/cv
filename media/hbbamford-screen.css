@@ -79,7 +79,7 @@ code {
 
 p code {
 	position: absolute;
-	right: -14%;
+	right: -10%;
 }
 
 
@@ -123,7 +123,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 33%;
+	left: 20%;
 }
 
 h1+p { 
@@ -163,7 +163,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: 20%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
