@@ -26,7 +26,7 @@ __Bachelor of science: _Environmental science___ __2:1__
 - _University of York:_ 
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
   - teaching in paleoglaciology, using R to analyse large remote sensing datasets
-  - 
+
 `2018 - 2020`
 __A Levels:__
 - _Sir Henry Floyd Grammar School:_
@@ -65,16 +65,17 @@ __A Levels:__
 - Discussions with international researchers to access data used in their publications and to discuss their findings.
 - 
 ### __Work Experience__
+
 - Held a part time job as a lifeguard during studies.
   - Needed to complete ongoing traing.
   - Developed time management skills balancing work and studies.
   - Responsible for safety of special educational needs children within the pool and facillitate teaching and physiotherapy.
-- 
+
 - Placement with local buisiness as part of my undergraduate degree to consult on sustainability.
   -  Arranging meetings, prioritising areas of the business to focus on based on the stakeholders needs.
   -  Working independantly between meetings and working to deadlines to ensure goals were met and the next discussion could be productive based upon my work and findings.
   -  Discussing findings and presenting final results in a clear and actionable manner.   
-- 
+  
 ## Scholarships and Awards
 - Planet Labs data access grant: £23,160 (equivalent)
 - Sheffield Postgraduate Scholarship: £10,000
