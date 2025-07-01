@@ -56,14 +56,14 @@ body {
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	margin-top: 1em;
+	/*margin-top: 1em;*/
 	margin-left: 1em;
 }
 
 p {
 	position: relative;
 	left: 15%;
-	margin-bottom: 0.7em;
+	/*margin-bottom: 0.7em;/*
 	margin-right: 0;
 	width: 75%;
 }
@@ -106,10 +106,6 @@ li {
 	text-indent: -1.25em;
 	margin-bottom: 0.1em;
 	/*color: #777;*/
-}
-
-ul > li:has(ul) {
-  margin-bottom: -1.2em;
 }
 
 li ul {
