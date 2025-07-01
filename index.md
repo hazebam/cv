@@ -11,21 +11,20 @@ Master's student of Polar and Alpine Change, University of Sheffield
 
 ## Summary
 
-Strong foundation in numerical modelling, programming using Python and R  and using high performance computing. Highly motivated to pursue a career in climate science. Interested in climate modelling, climbing and hiking in mountainous areas.
-
+Strong foundation in numerical modelling, programming using Python and R  and using high performance computing. Highly motivated to pursue a career in climate science. Aspirations to gain further research experience to progress onto a PhD. Interested in climate modelling, climbing and hiking in mountainous areas.
 ## Education
 
 `2024-2025`
 __Master of Science by research: _Polar and Alpine Change___
 - _University of Sheffield:_
 - __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health
-  - Using glacier models in python using linux computers, teaching in research techniques and scientific writing   
+  - Using glacier models in python using linux computers,Teaching in research techniques and scientific writing   
 
 `2022-2024`
 __Bachelor of science: _Environmental science___ __2:1__
 - _University of York:_ 
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
-  - teaching in paleoglaciology, using R to analyse large remote sensing datasets
+  - Teaching in paleoglaciology, using R to analyse large remote sensing datasets
 
 `2018 - 2020`
 __A Levels:__
