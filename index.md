@@ -18,7 +18,8 @@ Strong foundation in numerical modelling, programming using Python and R  and us
 __Master of Science by research: _Polar and Alpine Change___
 - _University of Sheffield:_
 - __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health
-  - Using glacier models in python using linux computers,Teaching in research techniques and scientific writing   
+  - Using glacier models in python using linux computers,
+  - Teaching in research techniques and scientific writing   
 
 `2022-2024`
 __Bachelor of science: _Environmental science___ __2:1__
