@@ -50,21 +50,21 @@ __A Levels:__
 ### __Technical Experience__  
 
 -
-- Analysis of bias-corrected WRF data and comparison with AWS data.
+- -Analysis of bias-corrected WRF data and comparison with AWS data.  
 -
-- Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
+- -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.  
 -  
-- Using and interpreting glacier model outputs.
+- -Using and interpreting glacier model outputs.  
 - 
-- Processing of large satellite imagery datasets to perform time series analysis.
+- -Processing of large satellite imagery datasets to perform time series analysis.  
 - 
-- Creation of plots and animations of time-series data to display in an engaging and informative way.
+- -Creation of plots and animations of time-series data to display in an engaging and informative way.  
 - 
-- Strong ability to generate close working relationships with project supervisors to work collaboratively.
+- -Strong ability to generate close working relationships with project supervisors to work collaboratively.  
 - 
-- Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
+- -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.  
 - 
-- Discussions with international researchers to access data used in their publications and to discuss their findings.
+- -Discussions with international researchers to access data used in their publications and to discuss their findings.  
   
 ### __Work Experience__
 
@@ -89,5 +89,5 @@ __A Levels:__
 
 - __Dr Emily Potter__ , _Postdoctoral researcher_
 - Emily.potter@sheffield.ac.uk
-- __Dr Robert Bryant__ _Senior Lecturer and Reader in Earth Observation_
+- __Dr Robert Bryant__ , _Senior Lecturer and Reader in Earth Observation_
 - R.G.Bryant@sheffield.ac.uk
