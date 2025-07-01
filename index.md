@@ -47,8 +47,9 @@ __A Levels:__
      - Orthorectofication and georeferencing of historical aerial film imagery
  -  __Word Processing:__ Microsoft office, LaTeX
 
-### __Technical Experience__
+### __Technical Experience__  
 
+-
 - Analysis of bias-corrected WRF data and comparison with AWS data.
 -
 - Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
@@ -80,9 +81,9 @@ __A Levels:__
   
 ## Scholarships
 
-/- Planet Labs private sector sattelite data access grant: __£23,160 (equivalent)__
-/- Sheffield Postgraduate Scholarship: __£10,000__
-/- Marion Wiles Fieldwork scholarship: __£2,700__
+- Planet Labs private sector sattelite data access grant: __£23,160 (equivalent)__
+- Sheffield Postgraduate Scholarship: __£10,000__
+- Marion Wiles Fieldwork scholarship: __£2,700__
 
 ## Referees
 
