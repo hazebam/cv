@@ -50,7 +50,7 @@ __A Levels:__
 ### __Technical Experience__  
 
 -
-- -Analysis of bias-corrected WRF data and comparison with AWS data.  
+- -Analysis of bias-corrected WRF data and comparison with AWS data. \n 
 -
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.  
 -  
@@ -69,14 +69,15 @@ __A Levels:__
 ### __Work Experience__
 
 - __Held a part time job as a lifeguard during studies:__
-   - Needed to complete ongoing traing.
+   - 
    - Developed time management skills balancing work and studies.
    - Responsible for safety of special educational needs children within the pool and facillitate teaching and physiotherapy.
 
 - __Placement with local buisiness as part of my undergraduate degree to consult on sustainability:__
-   - Arranging meetings, prioritising areas of the business to focus on based on the stakeholders needs.
-   - Working independantly between meetings
-   - Working to deadlines to ensure goals were met and the next discussion could be productive based upon my work and findings.
+   - Arranging meetings.
+   - Prioritising areas to focus on based on feasibility of changes.
+   - Working independantly between meetings.
+   - Working to deadlines to ensure goals were met.
    - Discussing findings and presenting final results in a clear and actionable manner.   
   
 ## Scholarships
