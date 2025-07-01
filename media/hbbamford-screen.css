@@ -109,7 +109,7 @@ li {
 ul > li:has(ul) {
   margin-bottom: -1.2em;
 }
-Add comment
+
 
 li ul {
 	position: relative;
@@ -145,7 +145,7 @@ h2 {
 	position: relative;
 	top: 1.0em;
 	text-align: right;
-	width: 12%;
+	width: 10%;
 }
 
 h3 {
