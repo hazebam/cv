@@ -36,7 +36,7 @@ __A Levels:__
 ### __Computing__
  -    
 
-` `  
+`    `
  - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  - __R:__ Knittr, Tidyverse, GGplot
  - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
@@ -52,7 +52,7 @@ __A Levels:__
 ### __Technical Experience__  
 -  
 
-` `  
+`    `
 - -Analysis of bias-corrected WRF data and comparison with AWS data.
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
 - -Using and interpreting glacier model outputs.
