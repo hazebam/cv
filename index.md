@@ -37,7 +37,8 @@ __A Levels:__
 ### __Computing__
  - * __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  - * __R:__ Knittr, Tidyverse, GGplot
- - * __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__, using regional climate model outputs __(WRF)__
+ - * __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+      - * using regional climate model outputs __(WRF)__
  - * __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
     * - Familiar with Zarr, Netcdf and Geotiff file formats
  - * __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
@@ -63,7 +64,7 @@ __A Levels:__
 - Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
 - 
 - Discussions with international researchers to access data used in their publications and to discuss their findings.
-- 
+  
 ### __Work Experience__
 
 - Held a part time job as a lifeguard during studies.
@@ -77,11 +78,13 @@ __A Levels:__
   -  Discussing findings and presenting final results in a clear and actionable manner.   
   
 ## Scholarships and Awards
+
 - Planet Labs private sector sattelite data access grant: £23,160 (equivalent)
 - Sheffield Postgraduate Scholarship: £10,000
 - Marion Wiles Fieldwork scholarship: £2,700
 
 ## Referees
+
 - __Dr Emily Potter__ , _Postdoctoral researcher_
 - Emily.potter@sheffield.ac.uk
 - __Dr Robert Bryant__ _Senior Lecturer and Reader in Earth Observation_
