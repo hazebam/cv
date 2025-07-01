@@ -4,10 +4,10 @@ title: Hazel Bamford's CV
 ---
 # Hazel Bamford
 Master's student of Polar and Alpine Change, University of Sheffield
-
 <div id="webaddress">
 <a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
 </div>
+
 ## Summary
 Strong foundation in numerical modelling, programming using Python and R and using high performance computing. Highly motivated to pursue a career in climate science. Aspirations to gain further research experience to progress onto a PhD. Interested in climate modelling, Passionate about climbing and hiking in mountainous areas.
 ## Education
