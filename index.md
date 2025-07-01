@@ -58,11 +58,13 @@ __A Levels:__
 - -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
 - -Discussions with international researchers to access data used in their publications and to discuss their findings.  
 
+<br>  
+
 <br>
 <br>
 <br>
-<br>
-<br>
+<br>  
+
 ### __Work Experience__  
 -  
 
