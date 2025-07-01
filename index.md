@@ -38,50 +38,50 @@ __A Levels:__
  -  __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  -  __R:__ Knittr, Tidyverse, GGplot
  -  __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
-      - * using regional climate model outputs __(WRF)__
+    - Using regional climate model outputs __(WRF)__
  -  __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
      - Familiar with Zarr, Netcdf and Geotiff file formats
  -  __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
-     - ArcGIS, QGIS
-     - EarthExplorer M2M API, Sentinel Hub API
-     - Orthorectofication and georeferencing of historical aerial film imagery
+     - /- ArcGIS, QGIS
+     - /- EarthExplorer M2M API, Sentinel Hub API
+     - /- Orthorectofication and georeferencing of historical aerial film imagery
  -  __Word Processing:__ Microsoft office, LaTeX
 
 ### __Technical Experience__
 
-- * Analysis of bias-corrected WRF data and comparison with AWS data.
-- 
-- * Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
+- /- Analysis of bias-corrected WRF data and comparison with AWS data.
+-
+- /- Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
 -  
-- * Using and interpreting glacier model outputs.
+- /- Using and interpreting glacier model outputs.
 - 
-- * Processing of large satellite imagery datasets to perform time series analysis.
+- /- Processing of large satellite imagery datasets to perform time series analysis.
 - 
-- * Creation of plots and animations of time-series data to display in an engaging and informative way.
+- /- Creation of plots and animations of time-series data to display in an engaging and informative way.
 - 
-- * Strong ability to generate close working relationships with project supervisors to work collaboratively.
+- /- Strong ability to generate close working relationships with project supervisors to work collaboratively.
 - 
-- * Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
+- /- Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
 - 
-- * Discussions with international researchers to access data used in their publications and to discuss their findings.
+- /- Discussions with international researchers to access data used in their publications and to discuss their findings.
   
 ### __Work Experience__
 
 - Held a part time job as a lifeguard during studies.
-  - Needed to complete ongoing traing.
-  - Developed time management skills balancing work and studies.
-  - Responsible for safety of special educational needs children within the pool and facillitate teaching and physiotherapy.
+  /- Needed to complete ongoing traing.
+  /- Developed time management skills balancing work and studies.
+  /- Responsible for safety of special educational needs children within the pool and facillitate teaching and physiotherapy.
 
 - Placement with local buisiness as part of my undergraduate degree to consult on sustainability.
-  -  Arranging meetings, prioritising areas of the business to focus on based on the stakeholders needs.
-  -  Working independantly between meetings and working to deadlines to ensure goals were met and the next discussion could be productive based upon my work and findings.
-  -  Discussing findings and presenting final results in a clear and actionable manner.   
+  /-  Arranging meetings, prioritising areas of the business to focus on based on the stakeholders needs.
+  /-  Working independantly between meetings and working to deadlines to ensure goals were met and the next discussion could be productive based upon my work and findings.
+  /-  Discussing findings and presenting final results in a clear and actionable manner.   
   
 ## Scholarships and Awards
 
-- Planet Labs private sector sattelite data access grant: £23,160 (equivalent)
-- Sheffield Postgraduate Scholarship: £10,000
-- Marion Wiles Fieldwork scholarship: £2,700
+/- Planet Labs private sector sattelite data access grant: £23,160 (equivalent)
+/- Sheffield Postgraduate Scholarship: £10,000
+/- Marion Wiles Fieldwork scholarship: £2,700
 
 ## Referees
 
