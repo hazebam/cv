@@ -46,7 +46,7 @@ __A Levels:__
      - Orthorectofication and georeferencing of historical aerial film imagery
  -  __Word Processing:__ Microsoft office, LaTeX
 
-### __Technical Experience__  
+### __Technical Experience__    
 
 - -Analysis of bias-corrected WRF data and comparison with AWS data.
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
@@ -55,7 +55,8 @@ __A Levels:__
 - -Creation of plots and animations of time-series data to display in an engaging and informative way.
 - -Strong ability to generate close working relationships with project supervisors to work collaboratively.
 - -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
-- -Discussions with international researchers to access data used in their publications and to discuss their findings.
+- -Discussions with international researchers to access data used in their publications and to discuss their findings.  
+
   
 ### __Work Experience__
 `2020-2025`
@@ -83,7 +84,7 @@ __A Levels:__
 
 ## Referees
 
-- __Dr Emily Potter__ , _Postdoctoral researcher_
-- Emily.potter@sheffield.ac.uk
 - __Dr Robert Bryant__ , _Senior Lecturer and Reader in Earth Observation_
 - R.G.Bryant@sheffield.ac.uk
+- __Dr Emily Potter__ , _Postdoctoral researcher_
+- Emily.potter@sheffield.ac.uk
