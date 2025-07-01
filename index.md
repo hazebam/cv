@@ -35,35 +35,35 @@ __A Levels:__
 ## Skills
 
 ### __Computing__
- - * __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
- - * __R:__ Knittr, Tidyverse, GGplot
- - * __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
+ -  __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
+ -  __R:__ Knittr, Tidyverse, GGplot
+ -  __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
       - * using regional climate model outputs __(WRF)__
- - * __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
-    * - Familiar with Zarr, Netcdf and Geotiff file formats
- - * __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
-    * - ArcGIS, QGIS
-    * - EarthExplorer M2M API, Sentinel Hub API
-    * - Orthorectofication and georeferencing of historical aerial film imagery
- - * __Word Processing:__ Microsoft office, LaTeX
+ -  __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
+     - Familiar with Zarr, Netcdf and Geotiff file formats
+ -  __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
+     - ArcGIS, QGIS
+     - EarthExplorer M2M API, Sentinel Hub API
+     - Orthorectofication and georeferencing of historical aerial film imagery
+ -  __Word Processing:__ Microsoft office, LaTeX
 
 ### __Technical Experience__
 
-- Analysis of bias-corrected WRF data and comparison with AWS data.
+- * Analysis of bias-corrected WRF data and comparison with AWS data.
 - 
-- Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
+- * Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
 -  
-- Using and interpreting glacier model outputs.
+- * Using and interpreting glacier model outputs.
 - 
-- Processing of large satellite imagery datasets to perform time series analysis.
+- * Processing of large satellite imagery datasets to perform time series analysis.
 - 
-- Creation of plots and animations of time-series data to display in an engaging and informative way.
+- * Creation of plots and animations of time-series data to display in an engaging and informative way.
 - 
-- Strong ability to generate close working relationships with project supervisors to work collaboratively.
+- * Strong ability to generate close working relationships with project supervisors to work collaboratively.
 - 
-- Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
+- * Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
 - 
-- Discussions with international researchers to access data used in their publications and to discuss their findings.
+- * Discussions with international researchers to access data used in their publications and to discuss their findings.
   
 ### __Work Experience__
 
