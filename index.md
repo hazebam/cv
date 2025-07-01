@@ -8,12 +8,9 @@ Master's student of Polar and Alpine Change, University of Sheffield
 <div id="webaddress">
 <a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
 </div>
-
 ## Summary
-
 Strong foundation in numerical modelling, programming using Python and R and using high performance computing. Highly motivated to pursue a career in climate science. Aspirations to gain further research experience to progress onto a PhD. Interested in climate modelling, Passionate about climbing and hiking in mountainous areas.
 ## Education
-
 __Master of Science by research:__ _Polar and Alpine Change,_ _University of Sheffield_
 - __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health
   - Using glacier models in python using linux computers
@@ -41,7 +38,7 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
    - Orthorectofication and georeferencing of historical aerial film imagery
  - __Word Processing:__ Microsoft office, LaTeX
 
-### __Technical Experience__  
+## Technical Experience  
 <br>
 - Analysis of bias-corrected WRF data and comparison with AWS data.
 - Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
@@ -53,7 +50,7 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 - Collaboration with international researchers to access data used in their publications and to discuss their results.  
 
 <br>  
-### __Work Experience__  
+## Work Experience  
 
 - __Lifeguard at Talbot Specialist School, Sheffield:__
 - _Responsibilities:_
