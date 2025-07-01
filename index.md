@@ -40,7 +40,7 @@ __A Levels:__
  -  __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
     - Using regional climate model outputs __(WRF)__
  -  __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
-     - Familiar with Zarr, Netcdf and Geotiff file formats
+     - /- Familiar with Zarr, Netcdf and Geotiff file formats
  -  __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
      - /- ArcGIS, QGIS
      - /- EarthExplorer M2M API, Sentinel Hub API
@@ -67,21 +67,22 @@ __A Levels:__
   
 ### __Work Experience__
 
-- Held a part time job as a lifeguard during studies.
+- __Held a part time job as a lifeguard during studies:__
   /- Needed to complete ongoing traing.
   /- Developed time management skills balancing work and studies.
   /- Responsible for safety of special educational needs children within the pool and facillitate teaching and physiotherapy.
 
-- Placement with local buisiness as part of my undergraduate degree to consult on sustainability.
-  /-  Arranging meetings, prioritising areas of the business to focus on based on the stakeholders needs.
-  /-  Working independantly between meetings and working to deadlines to ensure goals were met and the next discussion could be productive based upon my work and findings.
-  /-  Discussing findings and presenting final results in a clear and actionable manner.   
+- __Placement with local buisiness as part of my undergraduate degree to consult on sustainability:__
+  /- Arranging meetings, prioritising areas of the business to focus on based on the stakeholders needs.
+  /- Working independantly between meetings
+  /- Working to deadlines to ensure goals were met and the next discussion could be productive based upon my work and findings.
+  /- Discussing findings and presenting final results in a clear and actionable manner.   
   
-## Scholarships and Awards
+## Scholarships
 
-/- Planet Labs private sector sattelite data access grant: £23,160 (equivalent)
-/- Sheffield Postgraduate Scholarship: £10,000
-/- Marion Wiles Fieldwork scholarship: £2,700
+/- Planet Labs private sector sattelite data access grant: __£23,160 (equivalent)__
+/- Sheffield Postgraduate Scholarship: __£10,000__
+/- Marion Wiles Fieldwork scholarship: __£2,700__
 
 ## Referees
 
