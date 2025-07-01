@@ -50,8 +50,9 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 - Collaboration with international researchers to access data used in their publications and to discuss their results.  
 
 <br>  
-## Work Experience  
 
+## Work Experience
+<br>
 - __Lifeguard at Talbot Specialist School, Sheffield:__
 - _Responsibilities:_
    - Maintain qualification and keep up to date with updated guidance. 
