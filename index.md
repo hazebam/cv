@@ -34,23 +34,25 @@ __A Levels:__
 ## Skills
 
 ### __Computing__
--  
+ -    
 
+  
  - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  - __R:__ Knittr, Tidyverse, GGplot
  - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
-  - Using regional climate model outputs __(WRF)__
+   - Using regional climate model outputs __(WRF)__
  - __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
-  - Familiar with Zarr, Netcdf and Geotiff file formats
+   - Familiar with Zarr, Netcdf and Geotiff file formats
  - __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
    - ArcGIS, QGIS
    - EarthExplorer M2M API, Sentinel Hub API
    - Orthorectofication and georeferencing of historical aerial film imagery
  - __Word Processing:__ Microsoft office, LaTeX
 
-### __Technical Experience__        
+### __Technical Experience__  
 -  
 
+  
 - -Analysis of bias-corrected WRF data and comparison with AWS data.
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
 - -Using and interpreting glacier model outputs.
