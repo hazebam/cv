@@ -11,30 +11,23 @@ Master's student of Polar and Alpine Change, University of Sheffield
 
 ## Summary
 
-Strong foundation in numerical modelling, programming using Python and R  and using high performance computing. Highly motivated to pursue a career in climate science. Aspirations to gain further research experience to progress onto a PhD. Interested in climate modelling, climbing and hiking in mountainous areas.
+Strong foundation in numerical modelling, programming using Python and R and using high performance computing. Highly motivated to pursue a career in climate science. Aspirations to gain further research experience to progress onto a PhD. Interested in climate modelling, Passionate about climbing and hiking in mountainous areas.
 ## Education
 
-`2024-2025`
-__Master of Science by research: _Polar and Alpine Change___
-- _University of Sheffield:_
+__Master of Science by research:__ _Polar and Alpine Change,_ _University of Sheffield_
 - __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health
-  - Using glacier models in python using linux computers,
+  - Using glacier models in python using linux computers
   - Teaching in research techniques and scientific writing   
 
-`2022-2024`
-__Bachelor of science: _Environmental science___ __2:1__
-- _University of York:_ 
+__Bachelor of science:__ _Environmental science__ __2:1__
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
-  - Teaching in paleoglaciology, using R to analyse large remote sensing datasets
+  - Teaching in paleoglaciology
+  - Use of R to analyse large remote sensing datasets
 
-`2018 - 2020`
-__A Levels:__
-- _Sir Henry Floyd Grammar School:_
-- Psychology,Biology,Chemistry:  __ABB__
+__A Levels:__ _Sir Henry Floyd Grammar School_
+- Psychology,Biology,Chemistry,  __ABB__
 
 ## Skills
-
-### __Computing__
 <br>
  - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  - __R:__ Knittr, Tidyverse, GGplot
@@ -50,33 +43,24 @@ __A Levels:__
 
 ### __Technical Experience__  
 <br>
-- -Analysis of bias-corrected WRF data and comparison with AWS data.
-- -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
-- -Using and interpreting glacier model outputs.
-- -Processing of large satellite imagery datasets to perform time series analysis.
-- -Creation of plots and animations of time-series data to display in an engaging and informative way.
-- -Strong ability to generate close working relationships with project supervisors to work collaboratively.
-- -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
-- -Collaboration with international researchers to access data used in their publications and to discuss their results.  
+- Analysis of bias-corrected WRF data and comparison with AWS data.
+- Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
+- Using and interpreting glacier model outputs.
+- Processing of large satellite imagery datasets to perform time series analysis.
+- Creation of plots and animations of time-series data to display in an engaging and informative way.
+- Strong ability to generate close working relationships with project supervisors to work collaboratively.
+- Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
+- Collaboration with international researchers to access data used in their publications and to discuss their results.  
 
 <br>  
-
-<br>
-<br>
-<br>
-<br>  
-
 ### __Work Experience__  
--  
 
-`2020-2025`
 - __Lifeguard at Talbot Specialist School, Sheffield:__
 - _Responsibilities:_
    - Maintain qualification and keep up to date with updated guidance. 
    - Responsible for safety of special educational needs children within the pool.
    - facillitate teaching and physiotherapy.
-     
-`July 2024`
+    
 - __Placement with local buisiness as a sustainability consultant:__
 - _Responsibilities:_
    - Meetings with stakeholders.
