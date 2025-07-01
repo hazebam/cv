@@ -3,7 +3,7 @@ layout: cv
 title: Hazel Bamford's CV
 ---
 # Hazel Bamford
-Master's student of Polar and Alpine Change, University of sheffield
+Master's student of Polar and Alpine Change, University of Sheffield
 
 <div id="webaddress">
 <a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
@@ -11,20 +11,22 @@ Master's student of Polar and Alpine Change, University of sheffield
 
 ## Summary
 
-Recent Environmental Science BSc graduate, currently studying an MSc(Res) due to end September 2025. A strong foundation in numerical modelling, programming using Python and R using high performance computing. Highly motivated to pursue a career in climate science. 
+Strong foundation in numerical modelling, programming using Python and R  and using high performance computing. Highly motivated to pursue a career in climate science. Interested in climate modelling, climbing and hiking in mountainous areas.
 
 ## Education
 
 `2024-2025`
 __Master of Science by research: _Polar and Alpine Change___
 - _University of Sheffield:_
-- __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health 
+- __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health
+  - Using glacier models in python using linux computers, teaching in research techniques and scientific writing   
 
 `2022-2024`
 __Bachelor of science: _Environmental science___ __2:1__
 - _University of York:_ 
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
-
+  - teaching in paleoglaciology, using R to analyse large remote sensing datasets
+  - 
 `2018 - 2020`
 __A Levels:__
 - _Sir Henry Floyd Grammar School:_
@@ -33,18 +35,18 @@ __A Levels:__
 ## Skills
 
 ### __Computing__
- - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
- - __R:__ Knittr, Tidyverse, GGplot
- - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
- - __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
-    - Familiar with Zarr, Netcdf and Geotiff file formats
- - __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
-    - ArcGIS, QGIS
-    - EarthExplorer M2M API, Sentinel Hub API
-    - Orthorectofication and georeferencing of historical aerial film imagery
- - __Word Processing:__ Microsoft office, LaTeX
+ - * __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
+ - * __R:__ Knittr, Tidyverse, GGplot
+ - * __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__, using regional climate model outputs __(WRF)__
+ - * __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
+    * - Familiar with Zarr, Netcdf and Geotiff file formats
+ - * __Remote Sensing:__ Sentinel 2/5, Planet Labs, Landsat
+    * - ArcGIS, QGIS
+    * - EarthExplorer M2M API, Sentinel Hub API
+    * - Orthorectofication and georeferencing of historical aerial film imagery
+ - * __Word Processing:__ Microsoft office, LaTeX
 
-### __Experience__
+### __Technical Experience__
 
 - Analysis of bias-corrected WRF data and comparison with AWS data.
 - 
@@ -56,17 +58,30 @@ __A Levels:__
 - 
 - Creation of plots and animations of time-series data to display in an engaging and informative way.
 - 
-- Held a part time job during studies, exemplary ability to prioritise and manage time effectively.
-- 
 - Strong ability to generate close working relationships with project supervisors to work collaboratively.
 - 
 - Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
 - 
 - Discussions with international researchers to access data used in their publications and to discuss their findings.
 - 
+### __Work Experience__
+- Held a part time job as a lifeguard during studies.
+  - Needed to complete ongoing traing.
+  - Developed time management skills balancing work and studies.
+  - Responsible for safety of special educational needs children within the pool and facillitate teaching and physiotherapy.
+- 
+- Placement with local buisiness as part of my undergraduate degree to consult on sustainability.
+  -  Arranging meetings, prioritising areas of the business to focus on based on the stakeholders needs.
+  -  Working independantly between meetings and working to deadlines to ensure goals were met and the next discussion could be productive based upon my work and findings.
+  -  Discussing findings and presenting final results in a clear and actionable manner.   
+- 
+## Scholarships and Awards
+- Planet Labs data access grant: £23,160 (equivalent)
+- Sheffield Postgraduate Scholarship: £10,000
+- Marion Wiles Fieldwork scholarship: £2,700
 
 ## Referees
-- __Dr Jeremy Ely__, _Senior Lecturer in Physical Geography_
-- J.Ely@sheffield.ac.uk
+- __Dr Emily Potter__ , _Postdoctoral researcher_
+- Emily.potter@sheffield.ac.uk
 - __Dr Robert Bryant__ _Senior Lecturer and Reader in Earth Observation_
 - R.G.Bryant@sheffield.ac.uk
