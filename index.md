@@ -49,34 +49,33 @@ __A Levels:__
 
 ### __Technical Experience__  
 
+- -Analysis of bias-corrected WRF data and comparison with AWS data.
 
-- -Analysis of bias-corrected WRF data and comparison with AWS data. 
-
-- -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.  
+- -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
   
-- -Using and interpreting glacier model outputs.  
+- -Using and interpreting glacier model outputs.
  
-- -Processing of large satellite imagery datasets to perform time series analysis.  
+- -Processing of large satellite imagery datasets to perform time series analysis.
  
-- -Creation of plots and animations of time-series data to display in an engaging and informative way.  
+- -Creation of plots and animations of time-series data to display in an engaging and informative way.
  
-- -Strong ability to generate close working relationships with project supervisors to work collaboratively.  
+- -Strong ability to generate close working relationships with project supervisors to work collaboratively.
  
-- -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.  
+- -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
  
-- -Discussions with international researchers to access data used in their publications and to discuss their findings.  
+- -Discussions with international researchers to access data used in their publications and to discuss their findings.
   
 ### __Work Experience__
 
-- Held a part time job as a lifeguard during studies:
-- __Responsibilities:__
+- __Held a part time job as a lifeguard during studies:__
+- _Responsibilities:_
    - Maintain qualification and keep up to date with updated guidance. 
    - Developed time management skills balancing work and studies.
    - Responsible for safety of special educational needs children within the pool.
    - facillitate teaching and physiotherapy.
 
-- Placement with local buisiness as part of my undergraduate degree to consult on sustainability:
-- __Responsibilities:__
+- __Placement with local buisiness as a sustainability consultant:__
+- _Responsibilities:_
    - Booking meetings with staff and management when I deem necessary.
    - Prioritising areas to focus on based on feasibility of changes.
    - Working independantly between meetings.
