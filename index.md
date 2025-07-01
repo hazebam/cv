@@ -77,7 +77,7 @@ __A Levels:__
   -  Discussing findings and presenting final results in a clear and actionable manner.   
   
 ## Scholarships and Awards
-- Planet Labs data access grant: £23,160 (equivalent)
+- Planet Labs private sector sattelite data access grant: £23,160 (equivalent)
 - Sheffield Postgraduate Scholarship: £10,000
 - Marion Wiles Fieldwork scholarship: £2,700
 
