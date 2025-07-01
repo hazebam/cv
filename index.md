@@ -60,10 +60,9 @@ __A Levels:__
   
 ### __Work Experience__
 `2020-2025`
-- __Lifeguard, Talbot Specialist School, Sheffield:__
+- __Lifeguard at Talbot Specialist School, Sheffield:__
 - _Responsibilities:_
    - Maintain qualification and keep up to date with updated guidance. 
-   - Developed time management skills balancing work and studies.
    - Responsible for safety of special educational needs children within the pool.
    - facillitate teaching and physiotherapy.
      
