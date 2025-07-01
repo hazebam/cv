@@ -34,8 +34,6 @@ __A Levels:__
 ## Skills
 
 ### __Computing__
- -    
-
 <br>
  - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  - __R:__ Knittr, Tidyverse, GGplot
@@ -50,8 +48,6 @@ __A Levels:__
  - __Word Processing:__ Microsoft office, LaTeX
 
 ### __Technical Experience__  
--  
-
 <br>
 - -Analysis of bias-corrected WRF data and comparison with AWS data.
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
@@ -62,6 +58,7 @@ __A Levels:__
 - -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
 - -Discussions with international researchers to access data used in their publications and to discuss their findings.  
 
+<br>
 <br>
 <br>
 <br>
