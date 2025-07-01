@@ -49,19 +49,12 @@ __A Levels:__
 ### __Technical Experience__  
 
 - -Analysis of bias-corrected WRF data and comparison with AWS data.
-
 - -Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
-  
 - -Using and interpreting glacier model outputs.
- 
 - -Processing of large satellite imagery datasets to perform time series analysis.
- 
 - -Creation of plots and animations of time-series data to display in an engaging and informative way.
- 
 - -Strong ability to generate close working relationships with project supervisors to work collaboratively.
- 
 - -Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
- 
 - -Discussions with international researchers to access data used in their publications and to discuss their findings.
   
 ### __Work Experience__
@@ -72,20 +65,21 @@ __A Levels:__
    - Developed time management skills balancing work and studies.
    - Responsible for safety of special educational needs children within the pool.
    - facillitate teaching and physiotherapy.
+     
 `July 2024`
 - __Placement with local buisiness as a sustainability consultant:__
 - _Responsibilities:_
-   - Booking meetings with staff and management when I deem necessary.
-   - Prioritising areas to focus on based on feasibility of changes.
-   - Working independantly between meetings.
+   - Meetings with stakeholders.
+   - Identifying unsustainable practices and creating a plan of action.
+   - Presenting findings and sustainability plan to stakeholders
+   - Working as part of a team.
    - Working to deadlines to ensure goals were met.
-   - Discussing findings and presenting final results in a clear and actionable manner.   
   
 ## Scholarships
 
-- Planet Labs private sector sattelite data access grant: __£23,160 (equivalent)__
 - Sheffield Postgraduate Scholarship: __£10,000__
 - Marion Wiles Fieldwork scholarship: __£2,700__
+- Planet Labs sattelite data access grant: __£23,160 (equivalent)__
 
 ## Referees
 
