@@ -27,10 +27,11 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 
 ## Skills
 <br>
+ - __Laboratory:__ Micropipetting, colorimetry,Soil Drying, Vacuum filtration, use of AA3 Seal Analytical Nutrient Autoanalyzer, PCR
+ - __Word Processing:__ Microsoft office, LaTeX
+ - __Data:__ Familiar with Campbell scientific software, Excel, SPSS, python and R for data analysis.
  - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  - __R:__ Knittr, Tidyverse, GGplot
- - __Word Processing:__ Microsoft office, LaTeX
- - __Laboratory:__ Micropipetting, colorimetry,Soil Drying, Vacuum filtration, use of AA3 Seal Analytical Nutrient Autoanalyzer, PCR
  - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
    - Using regional climate model outputs __(WRF)__
  - __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
@@ -56,7 +57,8 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 - __Lab assistant to PhD student:__
 - _Responsibilities:_
    - Take detailed lab notes, keeping a record of over 500 samples.
-   - Following lab safety protocols
+   - Follow the protocol accurately and carefully, ensuring repeatability.
+   - Following lab safety protocols.
    - Ensuring samples were not contaminated or the order not confused during processing.
    - Assisting by micropipetting samples and autoclaving lab equipment.
    - Maintaining a sterile environment and working under a laminar flow hood.  
