@@ -40,7 +40,8 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 
 ## Technical Experience  
 <br>
-- Assistant to PhD student, performing PCR and micropipetting samples in a BSE cat2 Lab
+- Assistant in a BSE cat2 microbiology lab
+- Experience in a teaching laboratory in university
 - Analysis of data collectied from Fieldwork
 - Cleaning streamflow data and comparing this to associated AWS data to assess feasiblity.
 - Using and interpreting glacier model outputs.
@@ -52,6 +53,16 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 
 ## Work Experience
 <br>
+- __Lab assistant to PhD student:__
+- _Responsibilities:_
+   - Take detailed lab notes, keeping a record of over 500 samples.
+   - Following lab safety protocols
+   - Ensuring samples were not contaminated or the order not confused during processing.
+   - Assisting by micropipetting samples and autoclaving lab equipment.
+   - Maintaining a sterile environment and working under a laminar flow hood.  
+   - Working alongside the research student to ensure that I was providing the correct support.
+   - Working to deadlines to ensure goals were met.
+   
 - __Lifeguard at Talbot Specialist School, Sheffield:__
 - _Responsibilities:_
    - Maintain qualification and keep up to date with updated guidance. 
@@ -66,16 +77,7 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
    - Working as part of a team.
    - Working to deadlines to ensure goals were met.
 
-- __Lab assistant to PhD student:__
-- _Responsibilities:_
-   - Take detailed lab notes, keeping a record of over 500 samples.
-   - Following lab safety protocols
-   - Ensuring samples were not contaminated or the order not confused during processing.
-   - Assisting by micropipetting samples and autoclaving lab equipment.
-   - Maintaining a sterile environment and working under a laminar flow hood.  
-   - Working alongside the research student to ensure that I was providing the correct support.
-   - Working to deadlines to ensure goals were met.
-  
+
 ## Scholarships
 
 - Sheffield Postgraduate Scholarship: __£10,000__
