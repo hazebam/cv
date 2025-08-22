@@ -15,7 +15,8 @@ __Master of Science by research:__ _Polar and Alpine Change,_ _University of She
 - __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health
   - Using glacier models in python using linux computers
   - Teaching in research techniques and scientific writing
-  - Fieldwork on the Greenland ice sheet and installing sensors within proglacial rivers.  
+  - Fieldwork on the Greenland ice sheet and installing sensors within proglacial rivers.
+  - Use of Leica GNSS devices and Campbell Scientific dataloggers  
 
 __Bachelor of science:__ _Environmental science__ __2:1__
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
@@ -29,7 +30,8 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 <br>
  - __Laboratory:__ Micropipetting, Colorimetry, Soil drying, Vacuum filtration, Use of AA3 Seal Analytical Nutrient Autoanalyzer, PCR
  - __Word Processing:__ Microsoft office, LaTeX
- - __Data:__ Familiar with Campbell scientific software, Excel, SPSS, python and R for data analysis.
+ - __Data:__ Familiar with Campbell Scientific software, Excel, SPSS, python and R for data analysis.
+ - __Field:__ Crevasse safety, GNSS installation into ice using kovacs drilling ,Maintaining detailed field notes, Installation of river sensors.
  - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
  - __R:__ Knittr, Tidyverse, GGplot
  - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__
