@@ -82,12 +82,6 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
    - Working to deadlines to ensure goals were met.
 
 
-## Scholarships
-
-- Sheffield Postgraduate Scholarship: __£10,000__
-- Marion Wiles Fieldwork scholarship: __£2,700__
-- Planet Labs sattelite data access grant: __£23,160 (equivalent)__
-
 ## Referees
 
 - __Dr Robert Bryant__ , _Senior Lecturer and Reader in Earth Observation, MSc supervisor_
