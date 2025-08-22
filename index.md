@@ -27,7 +27,7 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
 
 ## Skills
 <br>
- - __Laboratory:__ Micropipetting, colorimetry,Soil Drying, Vacuum filtration, use of AA3 Seal Analytical Nutrient Autoanalyzer, PCR
+ - __Laboratory:__ Micropipetting, Colorimetry, Soil drying, Vacuum filtration, Use of AA3 Seal Analytical Nutrient Autoanalyzer, PCR
  - __Word Processing:__ Microsoft office, LaTeX
  - __Data:__ Familiar with Campbell scientific software, Excel, SPSS, python and R for data analysis.
  - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
