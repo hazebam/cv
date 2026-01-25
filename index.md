@@ -3,7 +3,7 @@ layout: cv
 title: Hazel Bamford's CV
 ---
 # Hazel Bamford
-Recently completed Master's of Polar and Alpine Change, University of Sheffield. Distinction
+Recently completed Master's of Polar and Alpine Change with a distinction from the University of Sheffield. 
 <div id="webaddress">
 <a href="haze.bamford@gmail.com">haze.bamford@gmail.com</a>
 </div>
