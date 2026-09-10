@@ -17,7 +17,7 @@ __Master of Science by research:__ _Polar and Alpine Change,_ _University of She
   - Using glacier models in python using linux computers
   - Teaching in research techniques and scientific writing   
 
-__Bachelor of science:__ _Environmental science__ __2:1__
+__Bachelor of science:__ _Environmental science_ __2:1__
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
   - Teaching in paleoglaciology
   - Use of R to analyse large remote sensing datasets
