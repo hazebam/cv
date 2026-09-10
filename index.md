@@ -38,7 +38,7 @@ __A Levels:__ _Sir Henry Floyd Grammar School_
    - EarthExplorer M2M API, Sentinel Hub API
    - Orthorectification and georeferencing of historical aerial film imagery
  - __Data Analytics & Databases:__ SQL, Seeq data analytics platform
-   - Completed Seeq Data Scientist Learning Path certificate
+   - Completed Seeq Data Scientist Learning Path
  - __Word Processing:__ Microsoft office, LaTeX
 
 ## Technical Experience  
