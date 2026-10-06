@@ -29,7 +29,7 @@ __Assistant Hydraulic Modeller, RES, UK__ _September 2026 – Present_
 - Write technical reports and present findings to clients and multidisciplinary teams.
   
 __Graduate Wastewater Modeller, Tetra Tech, UK__ _October 2025 – June 2026_
-- Developed and maintained hydraulic and statistical models for wastewater systems on projects ranging from local schemes to major infrastructure programmes, two projects.
+- Developed and maintained hydraulic models for wastewater companies
 - Cleaned and validated large datasets in excess of 200GB.
 - Produced technical reports for clients and learned Infoworks ICM, GIS workflows using MapInfo Pro.
 - Use of MIKE+ river modelling software
@@ -47,8 +47,9 @@ __Glacial meltwater and Andean wetland health__ (MSc dissertation) | Python, OGG
 - Modelled glacier meltwater contribution to high Andean wetlands on a Linux HPC cluster, using bias-corrected WRF climate data compared against automatic weather station observations.
 
 __Remote sensing of algal growth on the Greenland Ice Sheet__ (BSc dissertation) | R, Sentinel-2, Landsat
-- Analysed large satellite datasets in R to map and track algal growth over time.
+- Using ML to analyse multi year satellite datasets using R to map algal growth over time.
   
+
 
 ## Education
 __Master of Science by research:__ _Polar and Alpine Change,_ _University of Sheffield_
