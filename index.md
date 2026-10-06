@@ -3,91 +3,68 @@ layout: cv
 title: Hazel Goldson's CV
 ---
 # Hazel Goldson
-Recently completed Master's of Polar and Alpine Change with a distinction from the University of Sheffield. 
+Environmental data scientist | MSc(res) in Polar and Alpine Change, University of Sheffield, Distinction 
 <div id="webaddress">
 <a href="mailto:haze.goldson@gmail.com">haze.goldson@gmail.com</a>
 </div>
 
 ## Summary
-Strong foundation in GIS, using ArcGIS and QGIS, numerical modelling, programming using Python and R and using high performance computing. Experience in data collection in wetlands and using field hydrological techniques. Professional experience in hydraulic and wastewater modelling, data analysis, and technical reporting.
+Environmental data scientist with a distinction in a research masters. One year in industry as a hydraulic modeller. Specialist skills in Python, using HPC and satellite imagery analysis including Planet labs imagery and structure from motion. Looking for a role within the climate or environmental sector.
+
+## Skills
+<br>
+- __Python:__ Xarray, Dask, NumPy, Pandas, met office Iris, CuPy, Matplotlib, Seaborn
+ - __R:__ Tidyverse, ggplot2, knitr
+ - __Remote sensing & GIS:__ Sentinel 2,5, Landsat, Planet Labs. ArcGIS, QGIS, MapInfo. API & automated workflows. Orthorectification and georeferencing of historical aerial imagery
+ - __HPC & Linux:__ SLURM, OpenMPI, Git, Bash
+ - __Modelling:__ OGGM & COSIPY glacier models, WRF weather modelling, Infoworks ICM hydraulic models 
+ - __Data & analytics:__ SQL, Seeq, Jupyter
+ - __Report writing:__ Microsoft office, LaTeX
+
+## Work Experience
+__Assistant Hydraulic Modeller, RES, UK__ _September 2026 – Present_
+<br>
+- Build and maintain hydraulic models for water infrastructure companies across the UK 
+- Quality assurance of large environmental datasets.
+- Write technical reports and present findings to clients and multidisciplinary teams.
+  
+__Graduate Wastewater Modeller, Tetra Tech, UK__ _October 2025 – June 2026_
+- Developed and maintained hydraulic and statistical models for wastewater systems on projects ranging from local schemes to major infrastructure programmes, two projects.
+- Cleaned and validated large datasets in excess of 200GB.
+- Produced technical reports for clients and learned Infoworks ICM, GIS workflows using MapInfo Pro.
+- Use of MIKE+ river modelling software
+  
+__Lifeguard, Talbot Specialist School, Sheffield__ 
+– responsible for the safety of children with special educational needs and supporting teaching and physiotherapy sessions.
+ 
+__Sustainability Consultant (placement), local business__ 
+– assessed unsustainable practices and presented an action plan to stakeholders.
+ 
+## Projects
+__Glacial meltwater and Andean wetland health__ (MSc dissertation) | Python, OGGM, COSIPY, WRF, SLURM
+
+- Created a new glacier model that coupled two models allowing for snow dynamics and ice physics to be understood together
+- Modelled glacier meltwater contribution to high Andean wetlands on a Linux HPC cluster, using bias-corrected WRF climate data compared against automatic weather station observations.
+
+__Remote sensing of algal growth on the Greenland Ice Sheet__ (BSc dissertation) | R, Sentinel-2, Landsat
+- Analysed large satellite datasets in R to map and track algal growth over time.
+  
 
 ## Education
 __Master of Science by research:__ _Polar and Alpine Change,_ _University of Sheffield_
 - __Dissertation:__ Modelling glacial meltwater contribution and high Andean wetland health
   - Using glacier models in python using linux computers
-  - Teaching in research techniques and scientific writing   
+  - Teaching in research techniques and scientific writing
+  - Use of Sentinel 2 and Planet labs imagery   
 
-__Bachelor of science:__ _Environmental science_ __2:1__
+__Bachelor of science:__ _Environmental science_, _University of York_ __2:1__
 - __Dissertation:__ Remote sensing algal growth on the Greenland Ice Sheet
-  - Teaching in paleoglaciology
   - Use of R to analyse large remote sensing datasets
+  - Use of Sentinel 5 and Landsat imagery
 
 __A Levels:__ _Sir Henry Floyd Grammar School_
 - Psychology, Biology, Chemistry, __ABB__
 
-## Skills
-<br>
- - __Python:__ Iris, Dask, Numpy, Xarray, Pandas, CuPy, Matplotlib, Seaborn
- - __R:__ Knittr, Tidyverse, GGplot
- - __Modelling:__ Open Global Glacier Model __(OGGM)__, Coupled Ice and Snowpack model __(COSIPY)__, Infoworks ICM
-   - Using regional climate model outputs __(WRF)__
- - __HPC/Linux:__ OpenMPI, SLURM, Git, Bash, Zsh
-   - Familiar with Zarr, Netcdf and Geotiff file formats
- - __Remote Sensing & GIS:__ Sentinel 2/5, Planet Labs, Landsat
-   - ArcGIS, QGIS, Mapinfo
-   - EarthExplorer M2M API, Sentinel Hub API
-   - Orthorectification and georeferencing of historical aerial film imagery
- - __Data Analytics & Databases:__ SQL, Seeq data analytics platform
-   - Completed Seeq Data Scientist Learning Path
- - __Word Processing:__ Microsoft office, LaTeX
-
-## Technical Experience  
-<br>
-- Analysis of bias-corrected WRF data and comparison with AWS data.
-- Cleaning streamflow data and comparing this to associated AWS data to assess feasibility.
-- Using and interpreting glacier model outputs.
-- Processing of large satellite imagery datasets to perform time series analysis.
-- Creation of plots and animations of time-series data to display in an engaging and informative way.
-- Development and maintenance of hydraulic and statistical models for water systems.
-- Data handling, cleaning, and quality assurance on large environmental datasets.
-- Strong ability to generate close working relationships with project supervisors and colleagues to work collaboratively.
-- Engaging in departmental seminars has provided key understanding of research as a career and the importance of sharing ideas.
-- Collaboration with international researchers to access data used in their publications and to discuss their results.  
-
-<br>  
-
-## Work Experience
-<br>
-- __Graduate Hydraulic Modeller at RES, UK:__ _September 2026 – Present_
-- _Responsibilities:_
-   - Develop and maintain hydraulic models for water infrastructure and renewable energy projects.
-   - Conduct data analysis and quality assurance on large environmental datasets.
-   - Produce technical reports and communicate findings to clients and stakeholders.
-   - Collaborate with multidisciplinary teams on infrastructure and environmental projects.
-   - Promoted to Assistant Modeller (effective December 2026).
-
-- __Graduate Wastewater Modeller at Tetra Tech, UK:__ _October 2025 – June 2026_
-- _Responsibilities:_
-   - Developed and maintained hydraulic and statistical models for wastewater systems.
-   - Handled, cleaned, and interpreted large datasets with quality assurance procedures.
-   - Produced technical reports for diverse projects from local to major infrastructure programmes.
-   - Collaborated with multidisciplinary project teams and communicated with clients and stakeholders.
-   - Built proficiency in wastewater modelling, hydrology, and GIS tools (ArcGIS/QGIS).
-
-- __Lifeguard at Talbot Specialist School, Sheffield:__
-- _Responsibilities:_
-   - Maintain qualification and keep up to date with updated guidance. 
-   - Responsible for safety of special educational needs children within the pool.
-   - Facilitate teaching and physiotherapy.
-    
-- __Placement with local business as a Sustainability Consultant:__
-- _Responsibilities:_
-   - Meetings with stakeholders.
-   - Identifying unsustainable practices and creating a plan of action.
-   - Presenting findings and sustainability plan to stakeholders.
-   - Working as part of a team.
-   - Working to deadlines to ensure goals were met.
-  
 ## Scholarships
 
 - Sheffield Postgraduate Scholarship: __£10,000__
